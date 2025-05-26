@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Hi, I am Wenjie!"
 author_profile: true
@@ -16,7 +17,14 @@ Outside of research, I’m passionate about the philosophy of mind and language�
 
 Always happy to connect with curious minds—feel free to reach out!
 
-Research Keywords: concept learning · representation learning · compositionality, deep learning · cognitive science
+**Concept · Representation · Compositionality · Deep Learning · Cognitive Science**
+
+## Publications
+**Li, Wenjie**, Shannon C. Yasuda, Moira Rose Dillon, and Brenden Lake. "[An Infant-Cognition Inspired Machine Benchmark for Identifying Agency, Affiliation, Belief, and Intention.](https://escholarship.org/uc/item/5ft9x576)" In Proceedings of the Annual Meeting of the Cognitive Science Society, vol. 46. 2024.
+
+Yasuda, Shannon, **Wenjie Li**, Deisy Martinez, Brenden M. Lake, and Moira R. Dillon. "[15‐Month‐Olds’ Understanding of Imitation in Social and Instrumental Contexts.](https://onlinelibrary.wiley.com/doi/abs/10.1111/infa.70002)" Infancy 30, no. 1 (2025): e70002.
+
+**Li, Wenjie**, and Yao Li. "[Entropy, mutual information, and systematic measures of structured spiking neural networks.](https://doi.org/10.1016/j.jtbi.2020.110310)" Journal of Theoretical Biology 501 (2020): 110310.
 
 <!-- 
 A data-driven personal website
