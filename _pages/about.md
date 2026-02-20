@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first-year Ph.D. student in Neural Computation at Carnegie Mellon University, where I'm fortunate to work with Jessica Cantlon, Leila Wehbe, and Yonatan Bisk. 
+I am a Ph.D. student in Neural Computation at Carnegie Mellon University, advised by Yonatan Bisk.
 
-My research explores how symbol-like behaviors emerge and are represented in both biological and artificial neural networks. I’m especially drawn to questions around compositionality, abstraction, and how we learn and represent complex concepts.
+My research investigates concept representations in humans and machines. I study how language is grounded in sensorimotor experience and the physical environment; what forms of internal representational geometry align with a multimodal external world; and how compositional, symbol-like structure can emerge in neural networks.
 
-Before starting my Ph.D., I was an Assistant Research Scientist at NYU, collaborating with Brenden Lake and Moira Dillon. Before that, I worked with Guangyu Robert Yang at MIT. I earned my M.S. in Computer Science from NYU and my B.A. in Mathematics and Philosophy from Washington University in St. Louis.
+Prior to starting my Ph.D., I was an Assistant Research Scientist at NYU, where I collaborated with Brenden Lake. Before that, I worked with Guangyu Robert Yang at MIT. I received my M.S. in Computer Science from NYU and my B.A. in Mathematics and Philosophy from Washington University in St. Louis.
 
-Outside of research, I’m passionate about the philosophy of mind and language—and when I’m not thinking about brains or machines, you can probably find me dancing Tango.
+The north star of my intellectual curiosity is the tension between continuity and discreteness. Beyond research, I enjoy dancing [Argentine Tango](https://tartanconnect.cmu.edu/cmutc/home/).
 
-Always happy to connect with curious minds—feel free to reach out!
+Feel free to reach out if you would like to connect!
 
 **Concept · Representation · Compositionality · Deep Learning · Cognitive Science**
 
