@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in Neural Computation at Carnegie Mellon University, advised by Yonatan Bisk.
+I am a Ph.D. student in Neural Computation at Carnegie Mellon University, advised by [Yonatan Bisk](https://talkingtorobots.com/yonatanbisk.html).
 
 My research investigates concept representations in humans and machines. I study how language is grounded in sensorimotor experience and the physical environment; what forms of internal representational geometry align with a multimodal external world; and how compositional, symbol-like structure can emerge in neural networks.
 
-Prior to starting my Ph.D., I was an Assistant Research Scientist at NYU, where I collaborated with Brenden Lake. Before that, I worked with Guangyu Robert Yang at MIT. I received my M.S. in Computer Science from NYU and my B.A. in Mathematics and Philosophy from Washington University in St. Louis.
+Prior to starting my Ph.D., I was an Assistant Research Scientist at NYU, where I collaborated with [Brenden Lake](https://www.cs.princeton.edu/~bl8144/). Before that, I worked with [Guangyu Robert Yang](https://x.com/GuangyuRobert) at MIT. I received my M.S. in Computer Science from NYU and my B.A. in Mathematics and Philosophy from Washington University in St. Louis.
 
 The north star of my intellectual curiosity is the tension between continuity and discreteness. Beyond research, I enjoy dancing [Argentine Tango](https://tartanconnect.cmu.edu/cmutc/home/).
 
